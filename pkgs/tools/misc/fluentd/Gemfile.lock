@@ -117,7 +117,7 @@ GEM
       tzinfo (>= 1.0.0)
     webhdfs (0.8.0)
       addressable
-    yajl-ruby (1.4.1)
+    yajl-ruby (1.4.3)
 
 PLATFORMS
   ruby
