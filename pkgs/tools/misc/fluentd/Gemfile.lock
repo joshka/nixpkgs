@@ -94,7 +94,7 @@ GEM
       tzinfo (~> 2.0)
       tzinfo-data (~> 1.0)
       yajl-ruby (~> 1.0)
-    google-protobuf (3.9.1)
+    google-protobuf (3.24.0)
     http_parser.rb (0.6.0)
     jmespath (1.4.0)
     ltsv (0.1.2)
